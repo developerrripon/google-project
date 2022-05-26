@@ -1,7 +1,4 @@
-# google-project
-Google Home Page Design HTML &amp; CSS
 
-
-## Quick Links:
+## YouTube tutorial :
 
 [Youtube Playlist Link](https://www.youtube.com/channel/UCzjZ5olTc0hsbr27GfcTzUQ)
